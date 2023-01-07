@@ -1,2 +1,2 @@
-# blog
+# Harrison Hathwood
 Writer Blog
